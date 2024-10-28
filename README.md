@@ -1,4 +1,4 @@
-# Data Analysis Using Excel
+# Store Analysis
 
 This repository contains an Excel-based data analysis project, demonstrating various data analysis techniques using Microsoft Excel. 
 
